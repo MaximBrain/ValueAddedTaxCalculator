@@ -1,6 +1,0 @@
-@ValueAddedTaxCalculator_HostAddress = http://localhost:5031
-
-GET {{ValueAddedTaxCalculator_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
